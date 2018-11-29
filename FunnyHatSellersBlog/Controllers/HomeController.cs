@@ -13,7 +13,7 @@ namespace FunnyHatSellersBlog.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult LatestProjects()
         {
             ViewBag.Message = "Your application description page.";
 
